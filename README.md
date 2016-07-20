@@ -6,5 +6,5 @@ As a heads up, I expect to be looking at things like algorithms, math, golang, m
 
 If you have any questions about what RC is - please ask me about it!
 
-Day 1 - [Starting with algorithms](Day1.md)
-Day 2 -
+[Day 1](Day1.md)  
+[Day 2](Day2.md)
